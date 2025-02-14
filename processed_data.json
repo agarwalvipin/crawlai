@@ -1,0 +1,11 @@
+[
+    {
+        "content": "Launching Market Data Feeder V3 with upgraded features! Note: Market Data Feeder V2 will be deprecated soon - . ctrlK                         Developer API  Developer API Develop your app on the Upstox platform, utilizing a robust collection of REST APIs that deliver the necessary data for building a comprehensive investment and trading platform. With this API set, you can execute real-time orders, effectively manage user portfolios, stream live market data via Websockets, and more, all in a user-friendly and easily comprehensible manner.                       Made with  in India  Copyright  2025, Upstox. Built with .",
+        "metadata": {
+            "chunk_id": 0,
+            "source": "crawled_data.json",
+            "timestamp": "2025-02-14T11:56:23.656178",
+            "chunk_size": 625
+        }
+    }
+]
